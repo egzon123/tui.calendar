@@ -16,6 +16,7 @@ Place a `<div></div>` where you want TOAST UI Calendar rendered.
 <body>
 ...
 <div id="calendar" style="height: 800px;"></div>
+  sfe
 ...
 </body>
 ```
